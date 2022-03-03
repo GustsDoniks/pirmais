@@ -1,0 +1,2 @@
+Gusts Doniks
+Programmēšana II
